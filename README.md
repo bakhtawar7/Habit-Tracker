@@ -5,6 +5,9 @@ A single-page habit tracker web app built with React and Vite.
 It allows users to create habits, track them daily in a weekly grid, and build streaks over time.
 
 ---
+## Last Updated
+Improved UI and finalized submission
+
 
 How to Run Locally
 
@@ -12,4 +15,5 @@ How to Run Locally
 ```bash
 npm install
 npm run dev
+
 
